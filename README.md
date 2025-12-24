@@ -1,0 +1,1 @@
+Above is  ESP32-Based Real-Time Human-Machine Interface in which camera and joystick and voice control of any robot can be done using this interface, we designed the interface using tkinter and python. The entire project is Python based and for further help you can also consult the provided report that contains the respective code snipets aling with outputs.
